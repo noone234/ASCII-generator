@@ -34,3 +34,6 @@ By running the sript **video2video.py** with different values for *background* a
   <img src="demo/demo_complex_black_100.gif" width=800><br/>
   <i>Black-background complex_character ASCII output</i>
 </p>
+
+## Image to text
+By running the sript **img2txt.py** with different values for *mode*, we will have following outputs:
