@@ -16,3 +16,19 @@ Here is my python source code for ASCII generator. with my code, you could:
   <img src="demo/demo_simple_white_100.gif" width=800><br/>
   <i>White-background simple_character ASCII output</i>
 </p>
+
+<p align="center">
+  <img src="demo/demo_simple_black_100.gif" width=800><br/>
+  <i>Black-background simple_character ASCII output</i>
+</p>
+
+
+<p align="center">
+  <img src="demo/demo_complex_white_100.gif" width=800><br/>
+  <i>White-background complex_character ASCII output</i>
+</p>
+
+<p align="center">
+  <img src="demo/demo_complex_black_100.gif" width=800><br/>
+  <i>Black-background complex_character ASCII output</i>
+</p>
