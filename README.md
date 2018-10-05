@@ -77,3 +77,10 @@ By running the sript **img2img.py** with different values for *background* and *
   <img src="demo/output_complex_black_200.jpg" width=800><br/>
   <i>Black-background complex-character ASCII output</i>
 </p>
+
+## Requirements
+
+* **python 3.6**
+* **cv2**
+* **PIL** 
+* **numpy**
