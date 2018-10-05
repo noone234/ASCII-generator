@@ -39,15 +39,15 @@ By running the sript **video2video.py** with different values for *background* a
 By running the sript **img2txt.py** with different values for *mode*, we will have following outputs:
 <p align="center">
   <img src="demo/input.jpg" width=800><br/>
-  <i>Input video</i>
+  <i>Input image</i>
 </p>
 
 <p align="center">
   <img src="demo/demo_image_simple.png" width=800><br/>
-  <i>White-background simple_character ASCII output</i>
+  <i>Simple character ASCII output</i>
 </p>
 
 <p align="center">
   <img src="demo/demo_image_complex.png" width=800><br/>
-  <i>Black-background simple_character ASCII output</i>
+  <i>Complex character ASCII output</i>
 </p>
