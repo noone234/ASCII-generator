@@ -37,3 +37,17 @@ By running the sript **video2video.py** with different values for *background* a
 
 ## Image to text
 By running the sript **img2txt.py** with different values for *mode*, we will have following outputs:
+<p align="center">
+  <img src="demo/input.jpg" width=800><br/>
+  <i>Input video</i>
+</p>
+
+<p align="center">
+  <img src="demo/demo_image_simple.png" width=800><br/>
+  <i>White-background simple_character ASCII output</i>
+</p>
+
+<p align="center">
+  <img src="demo/demo_image_complex.png" width=800><br/>
+  <i>Black-background simple_character ASCII output</i>
+</p>
